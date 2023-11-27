@@ -1,4 +1,5 @@
 
+![people](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/d24df191-f019-4415-9d9a-f376935c66a0)
 
 
 # Analisis de Ventas en SuperMarket de Brasil periodo (2019-2022)
