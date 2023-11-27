@@ -53,13 +53,22 @@ A su vez en dichas regiones notamos, paulatinamente, un incremento de las gananc
 
 ### 4. ¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?
 
-![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/146b85fa-393b-4499-80c0-2c0ba5e026d8)
+![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/4.png)
 
 #### Conclusión
 El método de envío preferido por sus clientes (B2B|B2C) es el de "Entrega estándar".
 
 ### 5. ¿Cuáles son las ventas totales por trimestre en el estado de Sao Paulo?
 
-![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/af760cf1-849e-4039-bb3e-260252db6575)
+![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/5.png)
+
+
+### 6. ¿Cuáles son los 10 clientes con mejor indice de compra?
+
+![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/6.png)
+
+### 7. ¿Cuáles son los 8 productos con menor rendimiento?
+
+![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/7.png)
 
 Analisis de datos proyecto Super Market Brasileña Daniel Villa Real y Raul Cabrera Utria
