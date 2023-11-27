@@ -36,7 +36,7 @@ El 2022, fue el mejor año en que el supermercado tuvo un mejor su desempeño en
 
 ### 2. ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el periodo?
 
-![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/7eef8d9e-4efd-49bb-9a0f-f8fa3cd829af)
+![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/1.png)
 
 #### Conclusión
 Los datos indican que los 4 productos que generan mayor ganancia son los del departamento de Electrónicos.
@@ -45,7 +45,7 @@ durante el periodo analizado
 
 ### 3. Si separamos las ventas totales por año y por regiones ¿Qué insight podemos obtener de nuestras ventas?
 
-![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/c2f60ca8-a2c8-4430-b4e6-80ca6de4f168)
+![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/2.png))
 
 #### Conclusión
 Como conclusión podemos observar que el Sureste de Brasil fué la región que mayores ganancias generó en los últimos 4 años. Seguida por las regiones del Noreste y Centro-Oeste.
