@@ -95,4 +95,7 @@ buscan gestionar proyectos de manera eficiente.
 ![7](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/ce11f015-2dc5-4b7a-ac74-e3f60c96a53f)
 
 
-Analisis de datos proyecto Super Market Brasileña Daniel Villa Real y Raul Cabrera Utria
+### Desarrolladores Cientificos de Datos
+##Raul Aramando Cabrera Utria 
+[KBD]: www.linkedin.com/in/raul-armando-cabrera-utria-975879299
+Daniel Villareal 
