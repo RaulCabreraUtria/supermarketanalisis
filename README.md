@@ -3,7 +3,7 @@
 
 
 # Analisis de Ventas en SuperMarket de Brasil periodo (2019-2022)
-# Situacion ![idea](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/dbc2c385-030a-45d5-8e55-e4cc6db718d7)
+# Problematica ![idea](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/dbc2c385-030a-45d5-8e55-e4cc6db718d7)
 
 Una empresa de supermercados brasileña tiene la intención de recopilar 
 información que contribuya a una evaluación exhaustiva de su estado actual.
