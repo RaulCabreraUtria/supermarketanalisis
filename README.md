@@ -1,3 +1,6 @@
+
+
+
 # Analisis de Ventas en SuperMarket de Brasil periodo (2019-2022)
 # Situacion 
 Una empresa de supermercados brasileña tiene la intención de recopilar 
@@ -16,7 +19,8 @@ en el ámbito de Python. Pandas facilita una exploración minuciosa de tendencia
 en el rendimiento de ventas, proporcionando herramientas robustas para el análisis detallado 
 de conjuntos de datos comerciales complejos.
 
-# Herramientas de Visualización de Datos
+# Herramientas de Visualización de Datos ![tool-box](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/bc2a089a-614e-4504-8d34-858aac76c601)
+
 Se ha incorporado la librería matplotlib.pyplot en el lenguaje de programación Python como una 
 herramienta fundamental para la visualización de datos. Esta librería ha demostrado ser esencial 
 para presentar información de manera clara y comprensible. La capacidad de generar gráficos y 
@@ -25,7 +29,7 @@ responsables una base sólida para la toma de decisiones informada. La integraci
 permite una representación visual impactante y accesible de los resultados del análisis, 
 contribuyendo así a la comprensión profunda de las tendencias y patrones identificados.
 
-# Indicadores
+# Indicadores ![key-performance-indicator](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/eda08214-ca00-4261-a918-1ffada14eb74)
 ### 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
 
 ![1](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/543556e4-a8dd-4dd6-9f6b-b3549efcf054)
