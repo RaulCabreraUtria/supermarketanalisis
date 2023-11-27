@@ -33,7 +33,8 @@ responsables una base sólida para la toma de decisiones informada. La integraci
 permite una representación visual impactante y accesible de los resultados del análisis, 
 contribuyendo así a la comprensión profunda de las tendencias y patrones identificados.
 
-# Herramienta Gestion del Proyecto
+# Herramienta de Gestion del Proyecto ![trello](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/cc6b7afc-7343-4391-95a7-b26e7abb1ae4)
+
 
 El uso de Trello como herramienta de gestión de proyectos ofrece una plataforma visualmente intuitiva 
 y flexible que facilita la organización y colaboración en equipos. Mediante sus tableros, listas y tarjetas,
