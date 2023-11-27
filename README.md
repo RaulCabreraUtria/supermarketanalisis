@@ -27,7 +27,7 @@ contribuyendo así a la comprensión profunda de las tendencias y patrones ident
 
 ### 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
 
-![image](imagen/1.png](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/1.png)
+![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/1.png)
 
 
 #### Conclusión
