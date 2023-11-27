@@ -45,8 +45,9 @@ desarrollo de software y otros entornos donde la flexibilidad y la colaboración
 Además, la facilidad de uso de Trello lo hace atractivo tanto para profesionales como para usuarios individuales que 
 buscan gestionar proyectos de manera eficiente. 
 
-## Codigo Fuente ![code](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/716725eb-2d27-4469-bcef-5634e9ac64e8)
-
+# Codigo Fuente ![code](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/716725eb-2d27-4469-bcef-5634e9ac64e8)
+## Data reporte_ventas.csv
+## Obtecion de datos - Tratamiento de datos - Visualizacion
 
 [<kbd> <br> Acceso al codigo fuente <br> </kbd>][KBD]
 
