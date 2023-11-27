@@ -65,17 +65,9 @@ buscan gestionar proyectos de manera eficiente.
 ![1](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/543556e4-a8dd-4dd6-9f6b-b3549efcf054)
 
 
-
-#### Conclusión
-
-
-
 ### 2. ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el periodo?
 
 ![2](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/c0992a46-88eb-408a-8bab-d5a6a3cdc3ea)
-
-
-#### Conclusión
 
 
 ### 3. Si separamos las ventas totales por año y por regiones ¿Qué insight podemos obtener de nuestras ventas?
@@ -83,20 +75,14 @@ buscan gestionar proyectos de manera eficiente.
 ![3](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/5ae72a36-d2db-4bee-a84b-e7e7de7941a5)
 
 
-#### Conclusión
-
-
 ### 4. ¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?
 
 ![4](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/c37a8cca-fa5c-4d34-bc37-8f5abc215b6e)
 
 
-#### Conclusión
-
 ### 5. ¿Cuáles son las ventas totales por trimestre en el estado de Sao Paulo?
 
 ![5](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/420459f0-b8fc-41c0-af8d-a9cb82feeba8)
-
 
 
 ### 6. ¿Cuáles son los 10 clientes con mejor indice de compra?
