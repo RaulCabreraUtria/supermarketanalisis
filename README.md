@@ -22,7 +22,8 @@ en el ámbito de Python. Pandas facilita una exploración minuciosa de tendencia
 en el rendimiento de ventas, proporcionando herramientas robustas para el análisis detallado 
 de conjuntos de datos comerciales complejos.
 
-# Herramientas de Visualización de Datos ![tool-box](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/bc2a089a-614e-4504-8d34-858aac76c601)
+# Herramientas de Visualización de Datos ![due-diligence](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/3ce8048e-ee70-4c84-8fe2-13f0c8cdd59c)
+
 
 Se ha incorporado la librería matplotlib.pyplot en el lenguaje de programación Python como una 
 herramienta fundamental para la visualización de datos. Esta librería ha demostrado ser esencial 
