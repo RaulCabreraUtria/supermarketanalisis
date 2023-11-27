@@ -95,7 +95,7 @@ buscan gestionar proyectos de manera eficiente.
 ![7](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/ce11f015-2dc5-4b7a-ac74-e3f60c96a53f)
 
 
-### Desarrolladores Cientificos de Datos
-##Raul Aramando Cabrera Utria 
+# Desarrolladores Cientificos de Datos
+## Raul Cabrera Utria 
 [KBD]: www.linkedin.com/in/raul-armando-cabrera-utria-975879299
-Daniel Villareal 
+## Daniel Villareal 
