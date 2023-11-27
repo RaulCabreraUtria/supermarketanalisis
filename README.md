@@ -28,48 +28,51 @@ contribuyendo así a la comprensión profunda de las tendencias y patrones ident
 # Indicadores
 ### 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
 
-![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/1.png)
+![1](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/543556e4-a8dd-4dd6-9f6b-b3549efcf054)
+
 
 
 #### Conclusión
-El 2022, fue el mejor año en que el supermercado tuvo un mejor su desempeño en cuanto a las ganancias reales por ventas realizadas. Sin embargo, apreciamos un incremento en ganancias de ventas cada año transcurrido.
+
 
 
 ### 2. ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el periodo?
 
-![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/2.png)
+![2](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/c0992a46-88eb-408a-8bab-d5a6a3cdc3ea)
+
 
 #### Conclusión
-Los datos indican que los 4 productos que generan mayor ganancia son los del departamento de Electrónicos.
-Podemos notar tamquén que el departamente de productos de limpieza tiene 2 productos con buen margen de ganancia totalizando U$D 87k
-durante el periodo analizado
+
 
 ### 3. Si separamos las ventas totales por año y por regiones ¿Qué insight podemos obtener de nuestras ventas?
 
-![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/3.png)
+![3](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/5ae72a36-d2db-4bee-a84b-e7e7de7941a5)
+
 
 #### Conclusión
-Como conclusión podemos observar que el Sureste de Brasil fué la región que mayores ganancias generó en los últimos 4 años. Seguida por las regiones del Noreste y Centro-Oeste.
-A su vez en dichas regiones notamos, paulatinamente, un incremento de las ganancias en los últimos 2 años.
+
 
 ### 4. ¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?
 
-![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/4.png)
+![4](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/c37a8cca-fa5c-4d34-bc37-8f5abc215b6e)
+
 
 #### Conclusión
-El método de envío preferido por sus clientes (B2B|B2C) es el de "Entrega estándar".
 
 ### 5. ¿Cuáles son las ventas totales por trimestre en el estado de Sao Paulo?
 
-![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/5.png)
+![5](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/420459f0-b8fc-41c0-af8d-a9cb82feeba8)
+
 
 
 ### 6. ¿Cuáles son los 10 clientes con mejor indice de compra?
 
-![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/6.png)
+![6](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/676f4de9-ba97-4680-92cb-7091fa01a229)
+
 
 ### 7. ¿Cuáles son los 8 productos con menor rendimiento?
 
-![image](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/c1bdd7f7b774a866955b578a8a6bc5784ae28b06/imagen/7.png)
+![7](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/ce11f015-2dc5-4b7a-ac74-e3f60c96a53f)
+
 
 Analisis de datos proyecto Super Market Brasileña Daniel Villa Real y Raul Cabrera Utria
