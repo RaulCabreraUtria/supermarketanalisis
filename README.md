@@ -27,7 +27,7 @@ contribuyendo así a la comprensión profunda de las tendencias y patrones ident
 
 ### 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
 
-![image](https://github.com/pabloing93/supermarket-sales-analysis/assets/32267303/ef59e4ce-d667-4691-847f-e8ea1dee3b12)
+![image](imagen/1.png)
 
 
 #### Conclusión
