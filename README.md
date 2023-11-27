@@ -10,7 +10,8 @@ de ventas que han prevalecido desde el año 2019 hasta el presente año 2022.
 Este proceso de evaluación busca identificar tanto las debilidades como las 
 fortalezas operativas de la empresa
 
-# Plataformas de Análisis de Datos
+# Plataformas de Análisis de Datos ![tool-box](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/fbd5ab00-963b-4199-8d0b-6959bd609b5f)
+
 Se ha optado por la utilización de Google Colab, una plataforma que se basa en el lenguaje 
 de programación Python y está especializada en análisis de datos. Esta elección ha demostrado
 ser altamente efectiva para procesar volúmenes extensos de datos comerciales. En conjunto, 
