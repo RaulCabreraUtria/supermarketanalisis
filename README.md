@@ -33,6 +33,19 @@ responsables una base sólida para la toma de decisiones informada. La integraci
 permite una representación visual impactante y accesible de los resultados del análisis, 
 contribuyendo así a la comprensión profunda de las tendencias y patrones identificados.
 
+# Herramienta Gestion del Proyecto
+
+El uso de Trello como herramienta de gestión de proyectos ofrece una plataforma visualmente intuitiva 
+y flexible que facilita la organización y colaboración en equipos. Mediante sus tableros, listas y tarjetas,
+Trello proporciona una forma efectiva de planificar, dar seguimiento y completar tareas. Su capacidad para
+adaptarse a metodologías ágiles, como Scrum y Kanban, lo convierte en una elección popular para equipos de 
+desarrollo de software y otros entornos donde la flexibilidad y la colaboración son fundamentales.
+
+Además, la facilidad de uso de Trello lo hace atractivo tanto para profesionales como para usuarios individuales que 
+buscan gestionar proyectos de manera eficiente. 
+
+
+
 # Indicadores ![key-performance-indicator](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/eda08214-ca00-4261-a918-1ffada14eb74)
 ### 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
 
