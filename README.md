@@ -97,5 +97,5 @@ buscan gestionar proyectos de manera eficiente.
 
 # Desarrolladores Cientificos de Datos
 ## Raul Cabrera Utria 
-[KBD]: www.linkedin.com/in/raul-armando-cabrera-utria-975879299
+[LinkedInd](www.linkedin.com/in/raul-armando-cabrera-utria-975879299)
 ## Daniel Villareal 
