@@ -69,7 +69,7 @@ buscan gestionar proyectos de manera eficiente.
 
 ![2](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/c0992a46-88eb-408a-8bab-d5a6a3cdc3ea)
 
-## Conclución ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
+## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
 
 Este análisis resalta la eficacia de la empresa al priorizar categorías y productos que han demostrado ser no solo 
 rentables sino también sostenibles en términos de demanda del mercado. La estrategia futura debe centrarse en maximizar
@@ -101,7 +101,7 @@ cierre de cada año.
 
 ![6](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/676f4de9-ba97-4680-92cb-7091fa01a229)
 
-## Conclución ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
+## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
 
 ### 7. ¿Cuáles son los 8 productos con menor rendimiento?
 
