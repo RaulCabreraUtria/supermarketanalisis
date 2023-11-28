@@ -2,8 +2,8 @@
 ![people](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/d24df191-f019-4415-9d9a-f376935c66a0)
 
 
-# Analisis de Ventas en SuperMarket de Brasil periodo (2019-2022)
-# Problematica ![idea](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/dbc2c385-030a-45d5-8e55-e4cc6db718d7)
+# Análisis de Ventas en SuperMarket de Brasil periodo (2019-2022)
+# Problemática ![idea](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/dbc2c385-030a-45d5-8e55-e4cc6db718d7)
 
 Una empresa de supermercados brasileña tiene la intención de recopilar 
 información que contribuya a una evaluación exhaustiva de su estado actual.
@@ -33,7 +33,7 @@ responsables una base sólida para la toma de decisiones informada. La integraci
 permite una representación visual impactante y accesible de los resultados del análisis, 
 contribuyendo así a la comprensión profunda de las tendencias y patrones identificados.
 
-# Herramienta de Gestion del Proyecto ![trello](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/cc6b7afc-7343-4391-95a7-b26e7abb1ae4)
+# Herramientas de Gestión del Proyecto ![trello](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/cc6b7afc-7343-4391-95a7-b26e7abb1ae4)
 
 
 El uso de Trello como herramienta de gestión de proyectos ofrece una plataforma visualmente intuitiva 
@@ -45,13 +45,13 @@ desarrollo de software y otros entornos donde la flexibilidad y la colaboración
 Además, la facilidad de uso de Trello lo hace atractivo tanto para profesionales como para usuarios individuales que 
 buscan gestionar proyectos de manera eficiente. 
 
-# Codigo Fuente ![code](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/716725eb-2d27-4469-bcef-5634e9ac64e8)
+# Codígo Fuente ![code](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/716725eb-2d27-4469-bcef-5634e9ac64e8)
 ## Data
 [<kbd> <br> Arcivho de datos reporte_ventas.csv <br> </kbd>][KBD]
 
 [KBD]: /reporte_ventas.csv
 
-## Obtecion de datos - Tratamiento de datos y Visualizacion
+## Obtencíon de datos - Tratamíento de datos y Visualización
 
 [<kbd> <br> Acceso al codigo fuente <br> </kbd>][KBD]
 
@@ -95,6 +95,6 @@ buscan gestionar proyectos de manera eficiente.
 ![7](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/ce11f015-2dc5-4b7a-ac74-e3f60c96a53f)
 
 
-# Desarrolladores Cientificos de Datos
+# Desarrolladores Científicos de Datos
 ## [Raul Cabrera Utria](www.linkedin.com/in/raul-armando-cabrera-utria-975879299)
 ## Daniel Villareal 
