@@ -84,7 +84,7 @@ buscan gestionar proyectos de manera eficiente.
 
 ![5](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/420459f0-b8fc-41c0-af8d-a9cb82feeba8)
 
-## Conclucion ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
+## Conclución ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
 
 En resumen, los resultados del análisis indican claramente una tendencia al alza en el último trimestre de cada año, 
 consolidando la perspectiva positiva para el estado de SAO PABLO. Esta conclusión se basa en la evidencia 
@@ -95,6 +95,7 @@ cierre de cada año.
 
 ![6](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/676f4de9-ba97-4680-92cb-7091fa01a229)
 
+## Conclución ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
 
 ### 7. ¿Cuáles son los 8 productos con menor rendimiento?
 
