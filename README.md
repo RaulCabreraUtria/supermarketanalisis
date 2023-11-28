@@ -90,6 +90,13 @@ adaptadas a cada uno.
 
 ![4](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/c37a8cca-fa5c-4d34-bc37-8f5abc215b6e)
 
+## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
+
+El análisis detallado de los métodos de entrega implementados entre los años 2019 y 2022 revela patrones significativos 
+que impactan directamente en la cadena logística de nuestra empresa. Se ha observado un crecimiento sustancial en la
+preferencia por el método de entrega estándar, con un total de 2048 en el segmento B2B y 2213 en el B2C. Este aumento 
+indica una tendencia general hacia la selección de opciones de entrega más convencionales, posiblemente relacionada 
+con las expectativas de los clientes y la optimización de costos.
 
 ### 5. ¿Cuáles son las ventas totales por trimestre en el estado de Sao Paulo?
 
