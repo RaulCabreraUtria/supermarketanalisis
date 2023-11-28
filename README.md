@@ -64,7 +64,7 @@ buscan gestionar proyectos de manera eficiente.
 
 ![1](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/543556e4-a8dd-4dd6-9f6b-b3549efcf054)
 
-## Conclución ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
+## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
 
 En resumen, el análisis de ventas totales refleja un crecimiento constante, con especial énfasis en el marcado incremento
 entre 2021 y 2022. Este aumento proporciona una oportunidad estratégica para identificar y potenciar los factores clave 
@@ -95,7 +95,7 @@ adaptadas a cada uno.
 
 ![5](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/420459f0-b8fc-41c0-af8d-a9cb82feeba8)
 
-## Conclución ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
+## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
 
 En resumen, los resultados del análisis indican claramente una tendencia al alza en el último trimestre de cada año, 
 consolidando la perspectiva positiva para el estado de SAO PABLO. Esta conclusión se basa en la evidencia 
