@@ -55,14 +55,15 @@ buscan gestionar proyectos de manera eficiente.
 
 [<kbd> <br> Acceso al codigo fuente <br> </kbd>][KBD]
 
-[KBD]: /SuperMarket.ipynb
+[KBD]: /Super_Market_Data.ipynb
 
 
 
 # Indicadores ![key-performance-indicator](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/eda08214-ca00-4261-a918-1ffada14eb74)
 ### 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
 
-![1](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/267b0d6d-a8c1-4557-ad71-2ce30515d8b2)
+![1](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/9493c8cf-a18b-4e1e-98e3-ba768ccdd167)
+
 
 ## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
 
