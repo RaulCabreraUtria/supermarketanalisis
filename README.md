@@ -131,4 +131,4 @@ en favor de opciones más atractivas para los clientes.
 
 # Desarrolladores Científicos de Datos
 ## [Raul Cabrera Utria](www.linkedin.com/in/raul-armando-cabrera-utria-975879299)
-## Daniel Villareal 
+## [Daniel Villareal](www.linkedin.com/in/danielvi)
