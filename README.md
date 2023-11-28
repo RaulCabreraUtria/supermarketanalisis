@@ -116,6 +116,11 @@ indican no solo la calidad de nuestras ofertas, sino también el impacto positiv
 
 ![7](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/ce11f015-2dc5-4b7a-ac74-e3f60c96a53f)
 
+## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
+
+La información obtenida a partir de los productos menos vendidos proporciona una guía valiosa para la revisión y la optimización de 
+estrategias de comercialización, lanzamiento de productos, o incluso la consideración de la posibilidad de descontinuar algunos productos 
+en favor de opciones más atractivas para los clientes.
 
 # Desarrolladores Científicos de Datos
 ## [Raul Cabrera Utria](www.linkedin.com/in/raul-armando-cabrera-utria-975879299)
