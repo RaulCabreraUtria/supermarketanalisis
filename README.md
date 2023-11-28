@@ -2,7 +2,7 @@
 ![people](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/d24df191-f019-4415-9d9a-f376935c66a0)
 
 
-# Análisis de Ventas en SuperMarket de Brasil periodo (2019-2022)
+# Análisis de Ventas en Super Market DeTodito de Brasil (2019-2022)
 # Problemática ![idea](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/dbc2c385-030a-45d5-8e55-e4cc6db718d7)
 
 Una empresa de supermercados brasileña tiene la intención de recopilar 
