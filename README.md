@@ -103,6 +103,10 @@ cierre de cada año.
 
 ## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
 
+Al observar el panorama de manera mas amplia de los 10 principales clientes con el mejor índice de compra, queda claro que estos 
+clientes han desempeñado un papel crucial en el impulso de nuestro negocio. Sus elecciones consistentes a lo largo de estos años 
+indican no solo la calidad de nuestras ofertas, sino también el impacto positivo de nuestras estrategias de servicio al cliente y fidelización.
+
 ### 7. ¿Cuáles son los 8 productos con menor rendimiento?
 
 ![7](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/ce11f015-2dc5-4b7a-ac74-e3f60c96a53f)
