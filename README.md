@@ -73,7 +73,8 @@ que contribuyeron al éxito en ese período, permitiendo una planificación más
 
 ### 2. ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el periodo?
 
-![2](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/c0992a46-88eb-408a-8bab-d5a6a3cdc3ea)
+![2](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/df2a2dbb-6395-4c29-91e8-62e048572832)
+
 
 ## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
 
