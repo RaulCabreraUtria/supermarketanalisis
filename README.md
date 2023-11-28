@@ -130,5 +130,6 @@ estrategias de comercialización, lanzamiento de productos, o incluso la conside
 en favor de opciones más atractivas para los clientes.
 
 # Desarrolladores Científicos de Datos
-[Raul Cabrera Utria](www.linkedin.com/in/raul-armando-cabrera-utria-975879299)
+[LinkedIn](https://www.linkedin.com/in/raul-armando-cabrera-utria-975879299/) {:target="_blank"}
+[Raul Cabrera Utria](www.linkedin.com/in/)
 [Daniel Villareal](www.linkedin.com/in/danielvi)
