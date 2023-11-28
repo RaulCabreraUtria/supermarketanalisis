@@ -62,7 +62,8 @@ buscan gestionar proyectos de manera eficiente.
 # Indicadores ![key-performance-indicator](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/eda08214-ca00-4261-a918-1ffada14eb74)
 ### 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
 
-![1](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/9493c8cf-a18b-4e1e-98e3-ba768ccdd167)
+![1](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/fde930c2-93b6-4d35-86f3-eaac59417e85)
+
 
 
 ## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
@@ -73,8 +74,7 @@ que contribuyeron al éxito en ese período, permitiendo una planificación más
 
 ### 2. ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el periodo?
 
-![2](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/9190ac40-20e4-4526-8987-51f0040d6b4d)
-
+![2](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/5c9a0457-98d4-4429-b2c1-bfc38ebff95a)
 
 
 ## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
