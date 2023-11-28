@@ -85,6 +85,16 @@ adaptadas a cada uno.
 
 ![3](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/5ae72a36-d2db-4bee-a84b-e7e7de7941a5)
 
+## Conclusión ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
+
+El análisis detallado de las ventas por región entre los años 2019 y 2022 proporciona una visión clara del rendimiento 
+comercial en distintas áreas geográficas. La región Sureste ha experimentado un crecimiento constante en las ventas, 
+partiendo de 523 en 2019 y alcanzando 980 en 2022. Este incremento progresivo indica un rendimiento sólido y sostenido 
+en la región.
+
+En contraste, la región Noreste ha mostrado cierta variabilidad en sus resultados. Tras un descenso en 2020, las ventas se
+recuperaron en los años siguientes, alcanzando 549 en 2022. Esta dinámica puede estar relacionada con factores económicos 
+o estratégicos específicos de la región.
 
 ### 4. ¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?
 
