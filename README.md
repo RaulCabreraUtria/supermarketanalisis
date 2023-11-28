@@ -64,6 +64,11 @@ buscan gestionar proyectos de manera eficiente.
 
 ![1](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/543556e4-a8dd-4dd6-9f6b-b3549efcf054)
 
+## Conclución ![notepad](https://github.com/RaulCabreraUtria/supermarketanalisis/assets/36686118/0265e2a2-7033-415b-bf34-cc36e607f4f2)
+
+En resumen, el análisis de ventas totales refleja un crecimiento constante, con especial énfasis en el marcado incremento
+entre 2021 y 2022. Este aumento proporciona una oportunidad estratégica para identificar y potenciar los factores clave 
+que contribuyeron al éxito en ese período, permitiendo una planificación más efectiva para el futuro.
 
 ### 2. ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el periodo?
 
