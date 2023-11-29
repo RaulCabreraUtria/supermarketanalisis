@@ -51,7 +51,7 @@ buscan gestionar proyectos de manera eficiente.
 
 [KBD]: /reporte_ventas.csv
 
-# Obtencíon de datos - Tratamíento de datos y Visualización
+## Obtencíon de datos - Tratamíento de datos y Visualización
 
 [<kbd> <br> Acceso al codigo fuente <br> </kbd>][KBD1]
 
