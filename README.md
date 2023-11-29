@@ -53,9 +53,9 @@ buscan gestionar proyectos de manera eficiente.
 
 # Obtencíon de datos - Tratamíento de datos y Visualización
 
-[<kbd> <br> Acceso al codigo fuente <br> </kbd>][KBD]
+[<kbd> <br> Acceso al codigo fuente <br> </kbd>][KBD1]
 
-[KBD]: /Super_Market_Data.ipynb
+[KBD1]: /Super_Market_Data.ipynb
 
 
 
