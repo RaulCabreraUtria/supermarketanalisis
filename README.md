@@ -55,7 +55,7 @@ buscan gestionar proyectos de manera eficiente.
 
 [<kbd> <br> Acceso al codigo fuente <br> </kbd>][KBD]
 
-[KBD]: /Super_Market_Data.ipynb
+[KBD]: [/Super_Market_Data.ipynb](https://github.com/RaulCabreraUtria/supermarketanalisis/blob/main/Super_Market_Data.ipynb)
 
 
 
